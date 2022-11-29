@@ -1,1 +1,21 @@
-Oxygen (%), time (s),
+Time (minutes), Oxygen (%), pH, Humidity (%), Temperature (C), Ammonia (ppm), Ethanol (ppm),
+30, X, X, X, X, X, X
+60, X, X, X, X, X, X
+90, X, X, X, X, X, X
+120, X, X, X, X, X, X
+150, X, X, X, X, X, X
+180, X, X, X, X, X, X
+210, X, X, X, X, X, X
+240, X, X, X, X, X, X
+270, X, X, X, X, X, X
+300, X, X, X, X, X, X
+330, X, X, X, X, X, X
+360, X, X, X, X, X, X
+390, X, X, X, X, X, X
+420, X, X, X, X, X, X
+450, X, X, X, X, X, X
+480, X, X, X, X, X, X
+510, X, X, X, X, X, X
+540, X, X, X, X, X, X
+570, X, X, X, X, X, X
+600, X, X, X, X, X, X
