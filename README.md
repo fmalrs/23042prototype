@@ -1,1 +1,8 @@
-The Summary Page for ENGR 498 Project 23042: LIVE SILAGE ANALYZER
+23042 - Live Silage Analyzer
+--------------------------------------------------------------------------------------
+
+System is ACTIVE as of <TIME>
+
+Experiment Runtime - X Days, X Hours, X Minutes
+
+GRAPH HERE
