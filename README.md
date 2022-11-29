@@ -8,17 +8,17 @@ Experiment Start Time - DAY_MONTH HOUR_MINUTE
 Experiment Runtime    - X Days, X Hours, X Minutes
 
 GRAPH HERE
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 TO HERE
